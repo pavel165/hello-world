@@ -1,0 +1,1 @@
+druhy readme soubor
